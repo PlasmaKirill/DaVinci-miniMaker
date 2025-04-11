@@ -5,3 +5,5 @@
 5. https://xyzprod.blob.core.windows.net/document-service-center/da%20Vinci%C2%A0miniMaker(EN).pdf - ссылка для скачивания файла PDF с инструкцией как все сделать.
 
    Рад был кому-то помочь.
+
+![image](https://github.com/user-attachments/assets/5c063299-e98a-4c6f-8445-3fba0503768a)
