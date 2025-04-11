@@ -7,3 +7,5 @@
    Рад был кому-то помочь.
 
 ![image](https://github.com/user-attachments/assets/5c063299-e98a-4c6f-8445-3fba0503768a)
+![image](https://github.com/user-attachments/assets/e85e92b7-c0cd-4154-97ca-742960781a11)
+
